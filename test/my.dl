@@ -1,0 +1,37 @@
+# # This is a comment
+# function log(prefix,prefi2)
+#     print(prefix)
+#     return 1
+# end
+# #log("Hi","hello")
+# var a = 1 + 2
+# var b = len([1,2])
+
+# # This is a very useful piece of software
+
+# print("Greetings universe!")
+
+# function oopify(prefix,prefix2) -> prefix + "oop"
+# print(oopify("hi","hello"))
+
+
+# for i = 0 to 5 then
+# 	print(i)
+# end
+
+# # This is a comment
+
+
+# function map(element)
+# 	var new_elemnts = []
+# 	for i =0 to len(new_elemnts) then
+# 		append(new_elemnts,(element-1))
+# 	end
+# 	return new_elemnts
+	
+# end
+# print(map(1))
+
+
+var a = false
+print(a == true)
